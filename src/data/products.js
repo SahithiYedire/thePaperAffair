@@ -25,7 +25,7 @@ export const products = [
     price: 899,
     badge: 'Coming soon',
     launchStatus: 'coming-soon',
-    stock: 0,
+    stock: 6,
     images: [
       'https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=900&q=80',
       'https://images.unsplash.com/photo-1524578271613-d550eacf6090?auto=format&fit=crop&w=900&q=80'
@@ -42,7 +42,7 @@ export const products = [
     price: 899,
     badge: 'Coming soon',
     launchStatus: 'coming-soon',
-    stock: 0,
+    stock: 6,
     images: [
       'https://images.unsplash.com/photo-1523362628745-0c100150b504?auto=format&fit=crop&w=900&q=80'
     ],
