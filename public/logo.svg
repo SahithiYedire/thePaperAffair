@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The Paper Affair</title>
+  <desc id="desc">A pink round badge showing two girls reading a book together.</desc>
+  <defs>
+    <path id="bottomArc" d="M 76,292 A 180,180 0 0,0 436,292" />
+  </defs>
+  <circle cx="256" cy="256" r="248" fill="#df4d7a" />
+  <circle cx="256" cy="256" r="238" fill="none" stroke="#f7a4b8" stroke-width="3" />
+  <circle cx="256" cy="256" r="190" fill="#ffebe4" stroke="#fff0eb" stroke-width="3" stroke-dasharray="5 12" stroke-linecap="round" />
+  <g fill="#fff7f4">
+    <path d="M256 44c-5-10-23-8-23 5 0 12 23 25 23 25s23-13 23-25c0-13-18-15-23-5z"/>
+    <path d="M83 250a11 11 0 1 0 22 0 11 11 0 1 0-22 0zM407 250a11 11 0 1 0 22 0 11 11 0 1 0-22 0z"/>
+  </g>
+  <g fill="#ffd2db">
+    <path d="M132 100c-4-8-18-6-18 4 0 9 18 19 18 19s18-10 18-19c0-10-14-12-18-4z"/>
+    <path d="M380 100c-4-8-18-6-18 4 0 9 18 19 18 19s18-10 18-19c0-10-14-12-18-4z"/>
+  </g>
+  <!-- Reader on the left -->
+  <path d="M142 226c0-43 30-70 68-70s68 27 68 70v38h-136z" fill="#714052"/>
+  <path d="M153 224c13-23 39-35 57-26 20-9 44 2 58 26v43H153z" fill="#ffe4ca"/>
+  <g fill="#fff" stroke="#80374f" stroke-width="5">
+    <circle cx="188" cy="232" r="15"/><circle cx="232" cy="232" r="15"/>
+  </g>
+  <g fill="#45283f"><circle cx="188" cy="233" r="5"/><circle cx="232" cy="233" r="5"/></g>
+  <path d="M198 251q12 13 24 0" fill="none" stroke="#5d3047" stroke-width="4" stroke-linecap="round"/>
+  <path d="M269 174q14-18 27 0-14 17-27 0m-26 0q13-18 27 0-14 17-27 0" fill="#e34e78"/>
+  <!-- Reader on the right -->
+  <path d="M280 187c0-46 28-74 66-74s66 28 66 74v78H280z" fill="#342643"/>
+  <path d="M292 185c13-25 34-32 54-22 21-10 43-2 55 22v31h-109z" fill="#ffe4ca"/>
+  <path d="M292 183c13-27 36-39 54-27 20-11 45 2 55 27v-1c0-39-24-65-54-65s-55 27-55 66z" fill="#342643"/>
+  <g fill="#45283f"><ellipse cx="321" cy="200" rx="5" ry="7"/><ellipse cx="367" cy="200" rx="5" ry="7"/></g>
+  <g fill="#fff"><circle cx="322" cy="198" r="2"/><circle cx="368" cy="198" r="2"/></g>
+  <path d="M333 219q11 12 22 0" fill="none" stroke="#5d3047" stroke-width="4" stroke-linecap="round"/>
+  <path d="M321 137q12-18 25 0-13 16-25 0m-24 0q12-18 25 0-13 16-25 0" fill="#e34e78"/>
+  <path d="M333 264h20v28h-20z" fill="#ffe0c5"/>
+  <path d="M302 310c4-26 21-39 41-39s37 13 41 39" fill="#9ccdeb"/>
+  <!-- Open book -->
+  <path d="M104 300h152v88c-39-20-85-20-152-5z" fill="#fff7e7" stroke="#e1c98d" stroke-width="4"/>
+  <path d="M256 300h152v83c-67-15-113-15-152 5z" fill="#fff7e7" stroke="#e1c98d" stroke-width="4"/>
+  <path d="M256 301v87" stroke="#e1c98d" stroke-width="4"/>
+  <path d="M125 333l92 13m-72 15 67 9m26-24 92-13m-67 37 67-9" fill="none" stroke="#dfc78d" stroke-width="3" stroke-linecap="round"/>
+  <path d="M99 294h157v10H99zm157 0h157v10H256z" fill="#e06b91"/>
+  <text fill="#fff" font-family="Trebuchet MS, Arial, sans-serif" font-size="38" font-weight="700" letter-spacing="1">
+    <textPath href="#bottomArc" startOffset="50%" text-anchor="middle">The Paper Affair</textPath>
+  </text>
+</svg>
